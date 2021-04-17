@@ -1,0 +1,73 @@
+Nome
+E-mail
+Assunto
+Mensagem
+Criação
+Atualização
+Ativo?
+Usuários
+Design
+Mobile
+Foguete
+Serviço
+Descrição
+Icone
+Serviços
+Bio
+Imagem
+Funcionário
+Funcionários
+Profição
+Desktop
+Folha
+Descrição
+Pacote
+Drop
+Estrela
+Preço
+Tipo do pacote
+Tamanho do pacote
+Preços
+E-mail enviado com sucesso
+Erro ao enviar e-mail
+Messages
+Site Maps
+Static Files
+Syndication
+This field is required.
+Enter a whole number.
+Enter a valid date.
+Enter a valid time.
+Enter a valid date/time.
+Enter a valid duration.
+Please either submit a file or check the clear checkbox, not both.
+Upload a valid image. The file you uploaded was either not an image or a corrupted image.
+Please submit at most
+midnight
+noon
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
