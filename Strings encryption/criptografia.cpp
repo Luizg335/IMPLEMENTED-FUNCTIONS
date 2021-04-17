@@ -1,6 +1,6 @@
 // link useful to helping me with the functions of the ctype
 //http://linguagemc.com.br/ctype-h-toupper-tolower-isalpha-isdigit-em-c/
-// Case you want user the functions ready: message = encrypt("Hello world!", "monkey");  and decrypt(message, "monkey"); of the lib <string>
+// Case you want use the functions ready: message = encrypt("Hello world!", "monkey");  and decrypt(message, "monkey"); of the lib <string>
 #include <iostream>
 #include <ctype.h>
 using namespace std;
